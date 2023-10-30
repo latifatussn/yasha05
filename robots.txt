@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://siul4d.fairmlbook.org/sitemap.xml
